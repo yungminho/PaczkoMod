@@ -1,0 +1,396 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod",
+        "y": 0
+      },
+      "when": {
+        "facing": "north",
+        "formed": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_0",
+        "y": 0
+      },
+      "when": {
+        "facing": "north",
+        "formed": "true",
+        "part_id": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_1",
+        "y": 0
+      },
+      "when": {
+        "facing": "north",
+        "formed": "true",
+        "part_id": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_2",
+        "y": 0
+      },
+      "when": {
+        "facing": "north",
+        "formed": "true",
+        "part_id": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_3",
+        "y": 0
+      },
+      "when": {
+        "facing": "north",
+        "formed": "true",
+        "part_id": "3"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_4",
+        "y": 0
+      },
+      "when": {
+        "facing": "north",
+        "formed": "true",
+        "part_id": "4"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_5",
+        "y": 0
+      },
+      "when": {
+        "facing": "north",
+        "formed": "true",
+        "part_id": "5"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_6",
+        "y": 0
+      },
+      "when": {
+        "facing": "north",
+        "formed": "true",
+        "part_id": "6"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_7",
+        "y": 0
+      },
+      "when": {
+        "facing": "north",
+        "formed": "true",
+        "part_id": "7"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod",
+        "y": 90
+      },
+      "when": {
+        "facing": "east",
+        "formed": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_0",
+        "y": 90
+      },
+      "when": {
+        "facing": "east",
+        "formed": "true",
+        "part_id": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_1",
+        "y": 90
+      },
+      "when": {
+        "facing": "east",
+        "formed": "true",
+        "part_id": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_2",
+        "y": 90
+      },
+      "when": {
+        "facing": "east",
+        "formed": "true",
+        "part_id": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_3",
+        "y": 90
+      },
+      "when": {
+        "facing": "east",
+        "formed": "true",
+        "part_id": "3"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_4",
+        "y": 90
+      },
+      "when": {
+        "facing": "east",
+        "formed": "true",
+        "part_id": "4"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_5",
+        "y": 90
+      },
+      "when": {
+        "facing": "east",
+        "formed": "true",
+        "part_id": "5"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_6",
+        "y": 90
+      },
+      "when": {
+        "facing": "east",
+        "formed": "true",
+        "part_id": "6"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_7",
+        "y": 90
+      },
+      "when": {
+        "facing": "east",
+        "formed": "true",
+        "part_id": "7"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod",
+        "y": 180
+      },
+      "when": {
+        "facing": "south",
+        "formed": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_0",
+        "y": 180
+      },
+      "when": {
+        "facing": "south",
+        "formed": "true",
+        "part_id": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_1",
+        "y": 180
+      },
+      "when": {
+        "facing": "south",
+        "formed": "true",
+        "part_id": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_2",
+        "y": 180
+      },
+      "when": {
+        "facing": "south",
+        "formed": "true",
+        "part_id": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_3",
+        "y": 180
+      },
+      "when": {
+        "facing": "south",
+        "formed": "true",
+        "part_id": "3"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_4",
+        "y": 180
+      },
+      "when": {
+        "facing": "south",
+        "formed": "true",
+        "part_id": "4"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_5",
+        "y": 180
+      },
+      "when": {
+        "facing": "south",
+        "formed": "true",
+        "part_id": "5"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_6",
+        "y": 180
+      },
+      "when": {
+        "facing": "south",
+        "formed": "true",
+        "part_id": "6"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_7",
+        "y": 180
+      },
+      "when": {
+        "facing": "south",
+        "formed": "true",
+        "part_id": "7"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod",
+        "y": 270
+      },
+      "when": {
+        "facing": "west",
+        "formed": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_0",
+        "y": 270
+      },
+      "when": {
+        "facing": "west",
+        "formed": "true",
+        "part_id": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_1",
+        "y": 270
+      },
+      "when": {
+        "facing": "west",
+        "formed": "true",
+        "part_id": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_2",
+        "y": 270
+      },
+      "when": {
+        "facing": "west",
+        "formed": "true",
+        "part_id": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_3",
+        "y": 270
+      },
+      "when": {
+        "facing": "west",
+        "formed": "true",
+        "part_id": "3"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_4",
+        "y": 270
+      },
+      "when": {
+        "facing": "west",
+        "formed": "true",
+        "part_id": "4"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_5",
+        "y": 270
+      },
+      "when": {
+        "facing": "west",
+        "formed": "true",
+        "part_id": "5"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_6",
+        "y": 270
+      },
+      "when": {
+        "facing": "west",
+        "formed": "true",
+        "part_id": "6"
+      }
+    },
+    {
+      "apply": {
+        "model": "paczko-mod:block/paczkomod_part_7",
+        "y": 270
+      },
+      "when": {
+        "facing": "west",
+        "formed": "true",
+        "part_id": "7"
+      }
+    }
+  ]
+}
