@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.paczkomod.paczkomod.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "PaczkoModMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

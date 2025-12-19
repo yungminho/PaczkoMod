@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "paczko-mod:block/paczkomod_6",
+    "side": "paczko-mod:block/paczkomod_casing_2",
+    "top": "paczko-mod:block/paczkomod_casing_2"
+  }
+}
