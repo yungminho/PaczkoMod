@@ -13,10 +13,10 @@ Mod do Minecraft: Java Edition oparty o Fabric, dodający elementy inspirowane P
 - Zapis danych przy użyciu PersistentState
 
 ## Wymagania
-- Minecraft Java Edition 1.21.1
-- Fabric Loader 0.18.2 lub nowszy
+- Minecraft Java Edition 1.21.10
+- Fabric Loader 0.18.3 lub nowszy
 - Fabric API
-- Java 17 lub nowsza
+- Java 21
 
 ## Instalacja
 1. Zainstaluj Fabric Loader
